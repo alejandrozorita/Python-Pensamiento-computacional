@@ -1,4 +1,4 @@
-objetivo = int(input('escoge un netero: '))
+objetivo = int(input('escoge un entero: '))
 
 respuesta = 0
 
