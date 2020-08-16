@@ -1,7 +1,7 @@
 my_dict = {
-    'David' : 35,
-    'Erika' : 20,
-    'Jaime' : 10
+    'David': 35,
+    'Erika': 20,
+    'Jaime': 10
 }
 
 print(my_dict)

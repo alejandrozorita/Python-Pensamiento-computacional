@@ -1,7 +1,9 @@
 import unittest
 
+
 def suma(num_1, num_2):
     return num_1 + num_2
+
 
 class CajaNegraTest(unittest.TestCase):
 
@@ -24,4 +26,3 @@ class CajaNegraTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-

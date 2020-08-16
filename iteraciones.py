@@ -1,11 +1,8 @@
-
 count = 0
 
 while count < 10:
     print(count)
     count += 1
-
-
 
 count_externo = 0
 count_intenro = 0

@@ -1,8 +1,10 @@
 def multiplicar_por_dos(n):
     return n * 2
 
+
 def sumar_dos(n):
     return n + 2
+
 
 def aplicar_operacion(f, numeros):
     resultados = []
@@ -11,6 +13,7 @@ def aplicar_operacion(f, numeros):
         resultados.append(resultado)
 
     return resultados
+
 
 nums = [1, 2, 3]
 print(aplicar_operacion(multiplicar_por_dos, nums))
